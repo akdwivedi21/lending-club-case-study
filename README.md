@@ -1,5 +1,5 @@
-# Project Name
-> Outline a brief description of your project.
+# Lending Club Case Study
+> This project is all about showing lending risk for bank. As a part of lisk analysis we are using loan data and trying to identify the key features which can lead to a risk.
 
 
 ## Table of Contents
@@ -11,10 +11,9 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+- This project is all about showing lending risk for bank. As a part of lisk analysis we are using loan data and trying to identify the key features which can lead to risk.
+- We are using loan.csv file to do our analysis.
+
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
@@ -28,9 +27,12 @@
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- python
+- jupyter notebook
+- pandas
+- numpy
+- matplotlib
+- seaborn
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
