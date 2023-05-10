@@ -13,6 +13,8 @@
 ## General Information
 - This project is all about showing lending risk for bank. As a part of lisk analysis we are using loan data and trying to identify the key features which can lead to risk.
 - We are using loan.csv file to do our analysis.
+- main.py contains all the requred code.
+- Lending Club Case Study.pptx explains the high level overview and conclusion.
 
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
